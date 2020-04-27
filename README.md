@@ -34,4 +34,4 @@ coming soon
 
 
 # **Author** :
-Jakub Kubiak
+[Jakub Kubiak](https://github.com/KubiakJakub)
